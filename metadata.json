@@ -1,0 +1,8 @@
+{
+  "name": "Crazy Skill - Learning Adventure",
+  "description": "A high-fidelity gamified learning platform for students to explore robotics, AI, and vocational skills.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
